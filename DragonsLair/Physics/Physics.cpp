@@ -2,5 +2,9 @@
 
 
 namespace DragonsLair {
+	
+	void Grounded(bool grounded) {
 
+	}
+	
 }

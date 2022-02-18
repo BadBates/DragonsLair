@@ -2,7 +2,7 @@
 #include "Physics.h"
 
 namespace DragonsLair {
-	class Mass	{
+	class Mass {
 		Mass(float weight, float gravity);
 		~Mass();
 	};

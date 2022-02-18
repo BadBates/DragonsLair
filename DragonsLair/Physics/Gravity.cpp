@@ -2,11 +2,9 @@
 
 namespace DragonsLair {
     Gravity::Gravity(float g) {
-        g = 9.81;
-
+       
     }
+    Gravity::~Gravity(){
 
-    Gravity::Gravity(Mass mass, bool IsGrounded){
-        
     }
 }

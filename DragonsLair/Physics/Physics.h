@@ -6,6 +6,10 @@
 namespace DragonsLair {
 	class Physics
 	{
+		Mass mass;
+		Gravity gravity; 
 
+		Physics();
+		~Physics();
 	};
 }
